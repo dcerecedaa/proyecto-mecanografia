@@ -1,0 +1,7 @@
+[ADMINISTRADORES]
+a,a
+[USUARIOS]
+David,Clave1234
+Sergio,Clave2222
+Victor,Clave3333
+Beatriz,Clave4444

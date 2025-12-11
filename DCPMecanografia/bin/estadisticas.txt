@@ -1,0 +1,2 @@
+David|Nivel: Fácil|Puntos: 1820|Errores: 3|Tiempo: 43 seg|PPM: 275
+David|Nivel: Fácil|Puntos: 1940|Errores: 1|Tiempo: 41 seg|PPM: 286
