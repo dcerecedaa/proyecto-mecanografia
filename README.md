@@ -124,6 +124,6 @@ src/
 ## 👨‍💻 Autor
 
 **David Cereceda Pérez**  
-[GitHub](https://github.com/davidcereceda) | 
+[GitHub](https://github.com/davidcereceda) | [LinkedIn](https://linkedin.com/in/davidcereceda)
 
 ---
