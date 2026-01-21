@@ -123,7 +123,7 @@ src/
 
 ## 👨‍💻 Autor
 
-**Desarrollado por David Cereceda**  
-🎓 **Desarrollador Fullstack** | Apasionado por la programación
+**David Cereceda Pérez**  
+[GitHub](https://github.com/davidcereceda) | [LinkedIn](https://linkedin.com/in/davidcereceda)
 
 ---
