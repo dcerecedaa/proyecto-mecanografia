@@ -117,7 +117,7 @@ src/
 
 - 🌟 **Dale una estrella** en GitHub
 - 🛠️ **Haz un fork** y crea tu propia versión
-- 🐛 **Abre un issue** si encuentras bugs o quieres sugerir mejoras
+- 🐛 **Abre un issue** si encuentras bugs o quieres sugerir 
 
 ---
 
