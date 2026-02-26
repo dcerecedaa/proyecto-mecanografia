@@ -97,15 +97,7 @@ src/
 └── 📊 estadisticas.txt          # Estadísticas de sesiones
 ```
 ---
-## 💻 Stack Tecnológico
 
-| Categoría | Detalles |
-|-----------|----------|
-| **Lenguaje** | Java 22 |
-| **Librería UI** | Java Swing |
-| **Almacenamiento** | Archivos de texto (.txt) |
-| **Diseño** | Interfaz visual clara con animaciones |
-| **Compatibilidad** | Windows, macOS, Linux |
 ---
 
 ## ⭐ Soporte y Contribuciones
